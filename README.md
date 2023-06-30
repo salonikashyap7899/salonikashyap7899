@@ -1,5 +1,4 @@
 ![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--2_07Fv_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/MishManners%2520Room%2520animated.gif)
-
 <h1 align="center">Hi 👋, I'm saloni kashyap</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
